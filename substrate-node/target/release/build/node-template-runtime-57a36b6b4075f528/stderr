@@ -1,0 +1,4 @@
+[0m[0m[1m[32m   Compiling[0m pallet-nicks v3.0.0 (https://github.com/paritytech/substrate.git?tag=monthly-2021-05#70ef0afc)
+[0m[0m[1m[32m   Compiling[0m node-template-runtime v3.0.0 (/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/runtime)
+[0m[0m[1m[32m   Compiling[0m node-template-runtime-wasm v1.0.0 (/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/wbuild/node-template-runtime)
+[0m[0m[1m[32m    Finished[0m release [optimized] target(s) in 8.35s

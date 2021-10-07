@@ -1,0 +1,10 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/sp_utils-81190801b1ffe68b.rmeta: /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/utils/src/lib.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/utils/src/metrics.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/utils/src/mpsc.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/utils/src/status_sinks.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/libsp_utils-81190801b1ffe68b.rlib: /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/utils/src/lib.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/utils/src/metrics.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/utils/src/mpsc.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/utils/src/status_sinks.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/sp_utils-81190801b1ffe68b.d: /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/utils/src/lib.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/utils/src/metrics.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/utils/src/mpsc.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/utils/src/status_sinks.rs
+
+/Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/utils/src/lib.rs:
+/Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/utils/src/metrics.rs:
+/Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/utils/src/mpsc.rs:
+/Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/primitives/utils/src/status_sinks.rs:

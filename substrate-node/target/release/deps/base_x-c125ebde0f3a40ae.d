@@ -1,0 +1,11 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/base_x-c125ebde0f3a40ae.rmeta: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/alphabet.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/bigint.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/decoder.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/encoder.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/libbase_x-c125ebde0f3a40ae.rlib: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/alphabet.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/bigint.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/decoder.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/encoder.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/base_x-c125ebde0f3a40ae.d: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/alphabet.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/bigint.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/decoder.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/encoder.rs
+
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/lib.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/alphabet.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/bigint.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/decoder.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/base-x-0.2.8/src/encoder.rs:

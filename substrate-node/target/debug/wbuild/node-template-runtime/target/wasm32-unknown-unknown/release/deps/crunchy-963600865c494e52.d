@@ -1,0 +1,10 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/crunchy-963600865c494e52.rmeta: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crunchy-0.2.2/src/lib.rs /Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/build/crunchy-534b58f5a29f0a9c/out/lib.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/libcrunchy-963600865c494e52.rlib: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crunchy-0.2.2/src/lib.rs /Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/build/crunchy-534b58f5a29f0a9c/out/lib.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/crunchy-963600865c494e52.d: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crunchy-0.2.2/src/lib.rs /Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/build/crunchy-534b58f5a29f0a9c/out/lib.rs
+
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crunchy-0.2.2/src/lib.rs:
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/build/crunchy-534b58f5a29f0a9c/out/lib.rs:
+
+# env-dep:OUT_DIR=/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/build/crunchy-534b58f5a29f0a9c/out

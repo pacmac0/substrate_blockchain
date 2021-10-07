@@ -1,0 +1,11 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/deps/futures_task-8d5df03f48016666.rmeta: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/spawn.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/future_obj.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/noop_waker.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/arc_wake.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/waker.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/waker_ref.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/deps/futures_task-8d5df03f48016666.d: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/spawn.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/future_obj.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/noop_waker.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/arc_wake.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/waker.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/waker_ref.rs
+
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/lib.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/spawn.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/future_obj.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/noop_waker.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/arc_wake.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/waker.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-task-0.3.15/src/waker_ref.rs:

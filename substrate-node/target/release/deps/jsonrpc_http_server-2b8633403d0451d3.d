@@ -1,0 +1,10 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/jsonrpc_http_server-2b8633403d0451d3.rmeta: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-15.1.0/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-15.1.0/src/handler.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-15.1.0/src/response.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-15.1.0/src/utils.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/libjsonrpc_http_server-2b8633403d0451d3.rlib: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-15.1.0/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-15.1.0/src/handler.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-15.1.0/src/response.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-15.1.0/src/utils.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/jsonrpc_http_server-2b8633403d0451d3.d: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-15.1.0/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-15.1.0/src/handler.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-15.1.0/src/response.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-15.1.0/src/utils.rs
+
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-15.1.0/src/lib.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-15.1.0/src/handler.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-15.1.0/src/response.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-http-server-15.1.0/src/utils.rs:

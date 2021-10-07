@@ -1,0 +1,10 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/concurrent_queue-4dcf40e34920ebff.rmeta: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.2/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.2/src/bounded.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.2/src/single.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.2/src/unbounded.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/libconcurrent_queue-4dcf40e34920ebff.rlib: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.2/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.2/src/bounded.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.2/src/single.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.2/src/unbounded.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/concurrent_queue-4dcf40e34920ebff.d: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.2/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.2/src/bounded.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.2/src/single.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.2/src/unbounded.rs
+
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.2/src/lib.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.2/src/bounded.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.2/src/single.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.2/src/unbounded.rs:

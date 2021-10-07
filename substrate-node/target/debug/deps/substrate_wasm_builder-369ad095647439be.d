@@ -1,0 +1,10 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/deps/substrate_wasm_builder-369ad095647439be.rmeta: /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/lib.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/builder.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/prerequisites.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/wasm_project.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/deps/libsubstrate_wasm_builder-369ad095647439be.rlib: /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/lib.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/builder.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/prerequisites.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/wasm_project.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/deps/substrate_wasm_builder-369ad095647439be.d: /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/lib.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/builder.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/prerequisites.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/wasm_project.rs
+
+/Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/lib.rs:
+/Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/builder.rs:
+/Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/prerequisites.rs:
+/Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/utils/wasm-builder/src/wasm_project.rs:

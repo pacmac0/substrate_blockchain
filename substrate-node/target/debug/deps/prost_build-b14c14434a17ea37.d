@@ -1,0 +1,15 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/deps/prost_build-b14c14434a17ea37.rmeta: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/ast.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/code_generator.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/extern_paths.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/ident.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/message_graph.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/deps/libprost_build-b14c14434a17ea37.rlib: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/ast.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/code_generator.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/extern_paths.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/ident.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/message_graph.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/deps/prost_build-b14c14434a17ea37.d: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/ast.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/code_generator.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/extern_paths.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/ident.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/message_graph.rs
+
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/lib.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/ast.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/code_generator.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/extern_paths.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/ident.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/src/message_graph.rs:
+
+# env-dep:PROTOC=/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/third-party/protobuf/protoc-osx-x86_64
+# env-dep:PROTOC_INCLUDE=/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/prost-build-0.7.0/third-party/protobuf/include

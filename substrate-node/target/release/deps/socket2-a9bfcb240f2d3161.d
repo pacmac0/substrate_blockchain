@@ -1,0 +1,11 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/socket2-a9bfcb240f2d3161.rmeta: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/libsocket2-a9bfcb240f2d3161.rlib: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/socket2-a9bfcb240f2d3161.d: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs
+
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs:

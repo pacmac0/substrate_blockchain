@@ -1,0 +1,1 @@
+{"rustc":1514607520798689563,"features":"[]","target":14666943358436716533,"profile":2285152228202085614,"path":1232723577249932132,"deps":[[18207046733689548413,"serde",false,16474612592988328739]],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/bincode-ba1259278df1304e/dep-lib-bincode"}}],"rustflags":[],"metadata":8466748156696077862,"config":0,"compile_kind":0}

@@ -1,0 +1,11 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/mio_uds-6c7483459c9ada78.rmeta: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/datagram.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/listener.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/socket.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/stream.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/libmio_uds-6c7483459c9ada78.rlib: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/datagram.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/listener.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/socket.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/stream.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/mio_uds-6c7483459c9ada78.d: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/datagram.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/listener.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/socket.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/stream.rs
+
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/lib.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/datagram.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/listener.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/socket.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/mio-uds-0.6.8/src/stream.rs:

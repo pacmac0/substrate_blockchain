@@ -1,0 +1,1 @@
+{"rustc":1514607520798689563,"features":"[\"default\", \"std\", \"unstable\"]","target":374006562708233144,"profile":2285152228202085614,"path":16743656622449795649,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/futures-io-1b91d3d727cc6d9e/dep-lib-futures-io"}}],"rustflags":[],"metadata":6274769968791134284,"config":0,"compile_kind":0}

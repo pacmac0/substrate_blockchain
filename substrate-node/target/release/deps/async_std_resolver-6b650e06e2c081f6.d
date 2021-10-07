@@ -1,0 +1,10 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/async_std_resolver-6b650e06e2c081f6.rmeta: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/net.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/runtime.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/time.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/libasync_std_resolver-6b650e06e2c081f6.rlib: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/net.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/runtime.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/time.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/async_std_resolver-6b650e06e2c081f6.d: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/net.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/runtime.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/time.rs
+
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/lib.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/net.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/runtime.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/async-std-resolver-0.20.3/src/time.rs:

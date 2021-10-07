@@ -1,0 +1,1 @@
+cargo:rustc-env=SUBSTRATE_CLI_IMPL_VERSION=3.0.0-12d56a7-x86_64-macos

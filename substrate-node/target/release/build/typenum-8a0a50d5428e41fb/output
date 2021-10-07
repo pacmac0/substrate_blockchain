@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/build/typenum-8a0a50d5428e41fb/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/build/typenum-8a0a50d5428e41fb/out/op.rs

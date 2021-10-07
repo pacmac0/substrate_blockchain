@@ -1,0 +1,10 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/pallet_aura-59807e66d0847aaa.rmeta: /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/aura/src/lib.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/aura/src/mock.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/aura/src/tests.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/aura/src/migrations.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/libpallet_aura-59807e66d0847aaa.rlib: /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/aura/src/lib.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/aura/src/mock.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/aura/src/tests.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/aura/src/migrations.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/pallet_aura-59807e66d0847aaa.d: /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/aura/src/lib.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/aura/src/mock.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/aura/src/tests.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/aura/src/migrations.rs
+
+/Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/aura/src/lib.rs:
+/Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/aura/src/mock.rs:
+/Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/aura/src/tests.rs:
+/Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/aura/src/migrations.rs:

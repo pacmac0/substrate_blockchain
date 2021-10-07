@@ -1,0 +1,26 @@
+TARGET = Some("x86_64-apple-darwin")
+OPT_LEVEL = Some("3")
+HOST = Some("x86_64-apple-darwin")
+CC_x86_64-apple-darwin = None
+CC_x86_64_apple_darwin = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-apple-darwin = None
+CFLAGS_x86_64_apple_darwin = None
+HOST_CFLAGS = None
+CFLAGS = None
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("false")
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,sse,sse2,sse3,ssse3")
+running: "cc" "-O3" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-arch" "x86_64" "-Wall" "-Wextra" "-DCFG_TARGET_OS_macos" "-DCFG_TARGET_ARCH_x86_64" "-o" "/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/build/wasmtime-fiber-6b99619e05879e35/out/src/arch/x86_64.o" "-c" "src/arch/x86_64.S"
+exit status: 0
+AR_x86_64-apple-darwin = None
+AR_x86_64_apple_darwin = None
+HOST_AR = None
+AR = None
+running: "ar" "cq" "/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/build/wasmtime-fiber-6b99619e05879e35/out/libwasmtime-fiber.a" "/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/build/wasmtime-fiber-6b99619e05879e35/out/src/arch/x86_64.o"
+exit status: 0
+running: "ar" "s" "/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/build/wasmtime-fiber-6b99619e05879e35/out/libwasmtime-fiber.a"
+exit status: 0
+cargo:rustc-link-lib=static=wasmtime-fiber
+cargo:rustc-link-search=native=/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/build/wasmtime-fiber-6b99619e05879e35/out

@@ -1,0 +1,10 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/jsonrpc_ipc_server-937326dcda3707f9.rmeta: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-15.1.0/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-15.1.0/src/meta.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-15.1.0/src/select_with_weak.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-15.1.0/src/server.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/libjsonrpc_ipc_server-937326dcda3707f9.rlib: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-15.1.0/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-15.1.0/src/meta.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-15.1.0/src/select_with_weak.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-15.1.0/src/server.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/jsonrpc_ipc_server-937326dcda3707f9.d: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-15.1.0/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-15.1.0/src/meta.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-15.1.0/src/select_with_weak.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-15.1.0/src/server.rs
+
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-15.1.0/src/lib.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-15.1.0/src/meta.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-15.1.0/src/select_with_weak.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/jsonrpc-ipc-server-15.1.0/src/server.rs:

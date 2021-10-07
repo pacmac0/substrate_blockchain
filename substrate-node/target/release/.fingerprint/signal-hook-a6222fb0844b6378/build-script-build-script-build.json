@@ -1,0 +1,1 @@
+{"rustc":1514607520798689563,"features":"[\"channel\", \"iterator\"]","target":10429514197457385088,"profile":835532629594041745,"path":8976337803726563506,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/signal-hook-a6222fb0844b6378/dep-build-script-build-script-build"}}],"rustflags":[],"metadata":2150675457153548094,"config":0,"compile_kind":0}

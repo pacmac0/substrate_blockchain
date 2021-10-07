@@ -1,0 +1,9 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/pallet_timestamp-203ea78d0aadda38.rmeta: /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/timestamp/src/lib.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/timestamp/src/benchmarking.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/timestamp/src/weights.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/libpallet_timestamp-203ea78d0aadda38.rlib: /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/timestamp/src/lib.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/timestamp/src/benchmarking.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/timestamp/src/weights.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/debug/wbuild/node-template-runtime/target/wasm32-unknown-unknown/release/deps/pallet_timestamp-203ea78d0aadda38.d: /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/timestamp/src/lib.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/timestamp/src/benchmarking.rs /Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/timestamp/src/weights.rs
+
+/Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/timestamp/src/lib.rs:
+/Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/timestamp/src/benchmarking.rs:
+/Users/pacmac/.cargo/git/checkouts/substrate-7e08433d4c370a21/70ef0af/frame/timestamp/src/weights.rs:

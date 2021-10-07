@@ -1,0 +1,12 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/libp2p_plaintext-156bbd4f2fbf55e4.rmeta: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-plaintext-0.28.0/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-plaintext-0.28.0/src/error.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-plaintext-0.28.0/src/handshake.rs /Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/build/libp2p-plaintext-3ccb27a35ef8a2fe/out/structs.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/liblibp2p_plaintext-156bbd4f2fbf55e4.rlib: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-plaintext-0.28.0/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-plaintext-0.28.0/src/error.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-plaintext-0.28.0/src/handshake.rs /Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/build/libp2p-plaintext-3ccb27a35ef8a2fe/out/structs.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/libp2p_plaintext-156bbd4f2fbf55e4.d: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-plaintext-0.28.0/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-plaintext-0.28.0/src/error.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-plaintext-0.28.0/src/handshake.rs /Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/build/libp2p-plaintext-3ccb27a35ef8a2fe/out/structs.rs
+
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-plaintext-0.28.0/src/lib.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-plaintext-0.28.0/src/error.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/libp2p-plaintext-0.28.0/src/handshake.rs:
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/build/libp2p-plaintext-3ccb27a35ef8a2fe/out/structs.rs:
+
+# env-dep:OUT_DIR=/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/build/libp2p-plaintext-3ccb27a35ef8a2fe/out

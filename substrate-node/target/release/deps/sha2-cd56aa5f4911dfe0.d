@@ -1,0 +1,12 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/sha2-cd56aa5f4911dfe0.rmeta: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/consts.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256_utils.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512_utils.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/libsha2-cd56aa5f4911dfe0.rlib: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/consts.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256_utils.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512_utils.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/sha2-cd56aa5f4911dfe0.d: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/consts.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256_utils.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512_utils.rs
+
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/lib.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/consts.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha256_utils.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.8.2/src/sha512_utils.rs:

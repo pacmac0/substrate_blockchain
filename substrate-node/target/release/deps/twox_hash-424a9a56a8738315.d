@@ -1,0 +1,11 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/twox_hash-424a9a56a8738315.rmeta: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/sixty_four.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/thirty_two.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/xxh3.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/std_support.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/libtwox_hash-424a9a56a8738315.rlib: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/sixty_four.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/thirty_two.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/xxh3.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/std_support.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/twox_hash-424a9a56a8738315.d: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/sixty_four.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/thirty_two.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/xxh3.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/std_support.rs
+
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/lib.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/sixty_four.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/thirty_two.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/xxh3.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/twox-hash-1.6.0/src/std_support.rs:

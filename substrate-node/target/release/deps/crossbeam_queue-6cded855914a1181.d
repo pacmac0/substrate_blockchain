@@ -1,0 +1,10 @@
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/crossbeam_queue-6cded855914a1181.rmeta: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/array_queue.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/err.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/seg_queue.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/libcrossbeam_queue-6cded855914a1181.rlib: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/array_queue.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/err.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/seg_queue.rs
+
+/Users/pacmac/Documents/GitHub/Blockchain/substarte_blockchain/substrate-node-template/target/release/deps/crossbeam_queue-6cded855914a1181.d: /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/lib.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/array_queue.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/err.rs /Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/seg_queue.rs
+
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/lib.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/array_queue.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/err.rs:
+/Users/pacmac/.cargo/registry/src/github.com-1ecc6299db9ec823/crossbeam-queue-0.2.3/src/seg_queue.rs:
